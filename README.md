@@ -5,8 +5,7 @@
 - 🔭 I’m working on **C#, C++, HTML & CSS projects**  
 - 🌱 I’m currently learning **React.js and Data Structures & Algorithms**  
 - 👯 I’m looking to collaborate on **frontend or algorithmic projects**  
-- 💬 Ask me about **C#, C++, Windows Forms, HTML, CSS**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/berkan-akten)**  
+- 💬 Ask me about **C#, C++, Windows Forms, HTML, CSS**   
 - ⚡ Fun fact: I love building apps that solve daily problems
 
 ---
