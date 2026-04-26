@@ -35,7 +35,7 @@
 
 ### 📝 **Latest Projects**
 
-- [Recipe Website](https://github.com/aktenberkan/RecipeWebsite) - *A responsive frontend web project.*
+- [Perspective Projection](https://github.com/aktenberkan/Perspective-Projection)
 - [Polygon Drawer App](https://github.com/aktenberkan/PolygonDrawerApp) - *Desktop application for drawing algorithms.*
 - [Word Translation Game (C++)](https://github.com/aktenberkan/WordTranslationGame) - *Console-based educational game.*
 
